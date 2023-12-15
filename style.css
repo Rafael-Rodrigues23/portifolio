@@ -21,7 +21,7 @@
   --surface-color: rgba(0, 0, 0, 0.05);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
   --highlight-color: rgba(0, 0, 0, 0.2);
-  --switch-bg-url: url(./assets/sun.svg);
+  --switch-bg-url: url(./assets/Sun.svg);
 }
 
 body {
@@ -78,7 +78,7 @@ body * {
 #switch button {
   width: 32px;
   height: 32px;
-  background: white var(--switch-bg-url);
+  background: white var(--switch-bg-url) no-repeat center;
   border: 0;
   border-radius: 50%;
 
