@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="Dev Links" src=".github/preview.jpg" width="100%">
+  <img width="627" alt="Captura de tela 2024-01-04 160347" src="https://github.com/Rafael-Rodrigues23/portifolio/assets/94968001/243d6476-aff1-4889-be37-cdca75b305d5">
 </p>
 
 ## 🚀 Tecnologias
